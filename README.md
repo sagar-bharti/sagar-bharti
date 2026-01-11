@@ -29,7 +29,7 @@
 🌐 Live: https://sagar-bharti.github.io/Movie-Explorer-Recommendation-Web-Application/
 
 🔹 **Notes Management Web Application**  
-🌐 https://sagar-bharti.github.io/Notes-Management-Web-Application/
+🌐 Live: https://sagar-bharti.github.io/Notes-Management-Web-Application/
 
 🔹 **ATM Machine Working System**  
 
