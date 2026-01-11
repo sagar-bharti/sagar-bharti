@@ -12,7 +12,7 @@
 - **Libraries:** Python Pandas, Matplotlib  
 - **Frontend:** HTML, CSS & Tailwind, JavaScript  
 - **Backend:** Learning Node.js  
-- **Database:** MySQL, Firestore Firestore, MsExcel  
+- **Database:** MySQL, Firestore Firebase, MsExcel  
 - **Tools:** Git, GitHub, VS Code  
 
 ---
@@ -32,7 +32,6 @@
 🌐 https://sagar-bharti.github.io/Notes-Management-Web-Application/
 
 🔹 **ATM Machine Working System**  
- 
 
 ---
 
@@ -46,4 +45,6 @@
 - 📧 Email: thesagargoswami@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/sagar-bharti-9a0198330
 - 🌐 Portfolio: https://sagar-bharti.github.io/-Personal-Portfolio-Website/
+- 📸 Instagram: https://www.instagram.com/thesagargoswami/reels/
+
 
