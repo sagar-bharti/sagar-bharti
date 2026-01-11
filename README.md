@@ -25,7 +25,7 @@
 🔹 **Smart Park Web Application**  
 🌐 Live: https://sagar-bharti.github.io/SmartPark/
 
-🔹 **Movie Explorer & Recommendation Web Application** 
+🔹 **Movie Explorer & Recommendation Web Application**   
 🌐 Live: https://sagar-bharti.github.io/Movie-Explorer-Recommendation-Web-Application/
 
 🔹 **Notes Management Web Application**  
