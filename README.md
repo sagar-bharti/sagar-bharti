@@ -18,7 +18,7 @@
 ---
 
 ## 📌 Projects
-💻 Web-based project 
+💻 Web-based project    
 🔹 **Personal Portfolio Website**  
 🌐 Live: https://sagar-bharti.github.io/-Personal-Portfolio-Website/
 
