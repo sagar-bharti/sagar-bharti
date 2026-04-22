@@ -36,7 +36,7 @@
 ---
 
 ## 🏆 Achievements
-- Finalist – Google Developer Group On Campus Hackathon  
+- Google Developer Group On Campus Hackathon  
 - https://www.instagram.com/reel/DTGBzfhDBVw/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 - https://www.instagram.com/p/DSxMIguiBnw/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 - Certificate: https://media.licdn.com/dms/image/v2/D4D2DAQGlg0LdB7la9w/profile-treasury-document-images_1280/B4DZ0WTttPJoAU-/1/1774195765300?e=1776902400&v=beta&t=0r9aqiAAANJkuXI-s926sqwDd-irQCV3DJpi9Whxczg
