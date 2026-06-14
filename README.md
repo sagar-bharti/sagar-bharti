@@ -21,19 +21,23 @@
 💻 Web-based project  
 🔹 RunZone Battle Gamify Running App 
 🌐 Live: https://sagar-bharti.github.io/Running-Tracker/
+
 🔹 **Personal Portfolio Website**  
 🌐 Live: https://sagar-bharti.github.io/-Personal-Portfolio-Website/
+
 🔹 **Smart Park Web Application**  
 🌐 Live: https://sagar-bharti.github.io/SmartPark/
+
 🔹 **Movie Explorer & Recommendation Web Application**   
 🌐 Live: https://sagar-bharti.github.io/Movie-Explorer-Recommendation-Web-Application/
+
 🔹 **Notes Management Web Application**  
 🌐 Live: https://sagar-bharti.github.io/Notes-Management-Web-Application/
  
 💻 Other project
 🔹 AI Automation Project that detects emergencies and sends alerts without user interaction Mobile Software.
 🌐 Dowmnload link: https://expo.dev/accounts/sagarsagar/projects/EmergencyApp/builds/dd82efe5-b4cf-496f-8d26-32adbec8473d
-🔹 **ATM Machine Working System** 
+
 
 ---
 
