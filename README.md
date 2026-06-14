@@ -21,6 +21,7 @@
 💻 Web-based project  
 
 🔹 **RunZone Battle Gamify Running App**
+
 🌐 Live:  https://sagar-bharti.github.io/Running-Tracker/
 
 🔹 **Personal Portfolio Website**  
@@ -37,6 +38,7 @@
  
 💻 Other project
 🔹 AI Automation Project that detects emergencies and sends alerts without user interaction Mobile Software.
+
 🌐 Dowmnload link: https://expo.dev/accounts/sagarsagar/projects/EmergencyApp/builds/dd82efe5-b4cf-496f-8d26-32adbec8473d
 
 
