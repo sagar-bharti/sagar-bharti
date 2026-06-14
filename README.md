@@ -1,8 +1,8 @@
 # Hi 👋 I'm Sagar Bharti
 
 🎓 B.Tech (CSE) Student  
-💻 Aspiring Full Stack Web Developer  
-🌱 Learning Frontend & Backend Development  
+💻 Mongodb | Express.js | React.js | Node.js  
+🌱 Frontend & Backend Development  
 🚀 Building real-world projects to improve my skills  
 
 ---
@@ -10,9 +10,9 @@
 ## 🛠️ Tech Stack
 - **Languages:** C, C++, Python
 - **Libraries:** Python Pandas, Matplotlib  
-- **Frontend:** HTML, CSS & Tailwind, JavaScript  
-- **Backend:** Learning Node.js  
-- **Database:** MySQL, Firestore Firebase, MsExcel  
+- **Frontend:** HTML, CSS & Tailwind, JavaScript, React.js  
+- **Backend:** MongoDb | Express.js | Node.js 
+- **Database:** MySQL| Firestore Firebase| MsExcel  
 - **Tools:** Git, GitHub, VS Code  
 
 ---
