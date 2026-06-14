@@ -41,7 +41,7 @@
 - https://www.instagram.com/p/DSxMIguiBnw/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 - Certificate: https://media.licdn.com/dms/image/v2/D4D2DAQGlg0LdB7la9w/profile-treasury-document-images_1280/B4DZ0WTttPJoAU-/1/1774195765300?e=1776902400&v=beta&t=0r9aqiAAANJkuXI-s926sqwDd-irQCV3DJpi9Whxczg
 - Hackathon On Application Of Cyber Intelligence For National Security At Indian Institute Of Technology Bhilai
-- Certificate: https://hack2skill.com/event/bootcamps-2026?utm_source=hack2skill&utm_medium=teamdashboard&utm_campaign=bootcamps-2026&utm_term=referral-1&utm_content=69c00548be75718b04bbad20
+- Certificate: https://media.licdn.com/dms/image/v2/D4D22AQH_8TVV0qjeKQ/feedshare-shrink_1280/B4DZ18D1KFJ4AM-/0/1775902872560?e=1782950400&v=beta&t=m0jaZFeA9yWOEPXTBU8XZdmyY6pDz3moWSgvBj4vf0M
 - Completed Technical Cources On Coursera
 - Completed AI Workshop On Campus
 
