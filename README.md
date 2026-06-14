@@ -19,7 +19,7 @@
 
 ## 📌 Projects
 💻 Web-based project  
-🔹 RunZone Battle Gamify Running App 
+🔹 **RunZone Battle Gamify Running App**
 🌐 Live: https://sagar-bharti.github.io/Running-Tracker/
 
 🔹 **Personal Portfolio Website**  
