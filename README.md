@@ -60,7 +60,7 @@
 
 ## 📫 Connect With Me
 - 📧 Email: thesagargoswami@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/sagar-bharti-9a0198330
+- 💼 LinkedIn: https://www.linkedin.com/in/sagar-bharti-698701373/
 - 🌐 Portfolio: https://sagar-bharti.github.io/-Personal-Portfolio-Website/
 - 📸 Instagram: https://www.instagram.com/thesagargoswami/reels/
 
